@@ -1,6 +1,6 @@
 ## Empirical Activation of Rectified Activations in CNNs
 
-**Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li (2015)**
+##### **Bing Xu, Naiyan Wang, Tianqi Chen, Mu Li (2015)**
 
 Summary: The paper starts by addressing the fact that one of the key characteristics of modern deep learning systems is the use
 of non-saturated activation functions over [saturated](https://stats.stackexchange.com/questions/174295/what-does-the-term-saturating-nonlinearities-mean) ones.

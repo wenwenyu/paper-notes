@@ -8,7 +8,7 @@ Summary: The paper starts by addressing the problem that arises when a a large n
 The paper tested the effectiveness of dropout using the MNIST dataset.  The dataset contains 60,000 training images, and 10,000 test images.  Performance on the test set can be greatly improved by enhancing the training data with transformed images, by wiring knowledge about spatial transformations into a CNN, or by using generative pre-training to extract useful features from the training images  without using the labels.  Experiments were also performed on (1) the TIMIT dataset, a commonly used benchmark for recognition of clean speech with a small vocabulary, (2) the CIFAR-10 dataset a benchmark task used for object recognition, (3) the ImageNet dataset, a well known challenging set consisting of 1000 classes with about 1000 examples per class, and (4) the Reuters dataset, a set containing documents that have been labeled with a hierarchy of classes.  
 
 ### Notes 
-- The authors used a variety of different dropout probabilities and almost all of them improve the generalization performance of the network.  For FC dropout in all hidden layers works better than dropout in only one hidden layer
+- The authors used a variety of different dropout probabilities and almost all of them improve the generalization performance of the network.  For FC layers, dropout in all hidden layers works better than dropout in only one hidden layer
 - Dropout is easier to implement than Bayesian model averaging which weights each model by its posterior probability given the training data
 - A popular alternative to Bayesian model averaging is “bagging“
 - Dropout can be thought of an extreme form of “bagging” in which each model is trained on a single case

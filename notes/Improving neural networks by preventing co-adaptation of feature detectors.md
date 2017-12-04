@@ -20,4 +20,4 @@ Datasets: The paper tested the effectiveness of dropout using the MNIST dataset.
 
 **ImageNet**: In 2010 a subset of this dataset was used to start an object recognition challenge.  The winning entry achieved an error rate of 47.2%.  The best result (at the time of this paper) was 45.7%.  Using a single neural network with five CONV hidden layers along with two MP layers along with two globally connected layers and a final 1000-way SM layer the authors achieved 48.6% accuracy.  After applying dropout to the network the authors achieved a record 42.6%
 
-**Reuters**: A feedforward NN with 2 FC layers of 2000 hidden units trained with back prop achieved 31.05% error on the test set.  After applying dropout with a probability of ,5 this percentage went down to 29.62% 
+**Reuters**: A feedforward NN with 2 FC layers of 2000 hidden units trained with back prop achieved 31.05% error on the test set.  After applying dropout with a probability of .5 this percentage went down to 29.62% 

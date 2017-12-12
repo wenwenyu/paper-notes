@@ -11,7 +11,7 @@ Summary: The paper starts by stating grid search and manual search are two commo
 - The most widely used strategy is a combination of grid search and manual search.  The main drawback of manual search is the difficulty in reproducing results.  The main problem in grid search alone is that in practice it performs poorly.  
 - The authors describe the HP configuration space of their neural network in terms of the distribution that was used to randomly sample from that configuration space
 
-...HP in their configuration was the type of *data pre-processing* w/ equal probability one of (a) none, (b) normalize (center each feature dimension and divide by its standard deviation), or (c) PCA.  
+⋅⋅1.HP in their configuration was the type of *data pre-processing* w/ equal probability one of (a) none, (b) normalize (center each feature dimension and divide by its standard deviation), or (c) PCA.  
 … 2. Part of PCA preprocessing is choosing how many components to keep.  We choose a fraction of variance to keep with a uniform distribution between .5 and 1.0.  
 … 3. There have been several suggestions for how the random weights should be initialized.  The possible distributions were (a) uniform(-1, 1), and (b) unit normal 
 … 4. The number of hidden units was drawn geometrically from 18 to 1024

@@ -13,8 +13,8 @@ Summary: Cardiovascular risk prediction is imperfect, as risk models are derived
 - **C-Statistic**: Measure of goodness-of-fit for binary outcomes in a logistic regression model.  Gives the probability a randomly selected patient who experienced an event had a higher risk score than a patient who had not experienced the event.  Equals the area under the ROC curve
 - **Biomarker**: A measurable indicator of the severity or presence of some disease state
 - **CRP**: Protein that the liver makes when there is inflammation in the body.  Known as a marker of inflammation
-- ** hsCRP**: high sensitivity CRP test…measures CRP
-- ** eGFR**: Used to screen for and detect early kidney damage.  To help diagnose chronic kidney disease (CKD) and to monitor kidney status
+- **hsCRP**: high sensitivity CRP test…measures CRP
+- **eGFR**: Used to screen for and detect early kidney damage.  To help diagnose chronic kidney disease (CKD) and to monitor kidney status
 - **Hosmer-Lemeshow**: A statistical test for goodness of fit for logistic regression models.  The test assesses whether or not the observed event rates match expected event rates in subgroups of the model population
 
 ### Notes

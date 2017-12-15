@@ -1,3 +1,3 @@
 # paper-notes
 
-Notes on machine learning papers I have come across while working.
+Notes on machine learning / medical papers I have come across while working.

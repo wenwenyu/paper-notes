@@ -1,6 +1,6 @@
 ## Deep Learning 
 
-##### **I. Goodfellow, Y. Bengio, A. Courville**
+##### **I. Goodfellow, Y. Bengio, A. Courville (2016)**
 
 Summary: Free book on Deep Learning
 

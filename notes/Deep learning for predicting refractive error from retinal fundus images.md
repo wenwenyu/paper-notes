@@ -9,6 +9,7 @@ Summary: RE can be treated by treatments as simple as prescribing sunglasses.  T
 - **Mean Absolute Error (MAE)**: Measure of difference between two continuous variables
 - **Bootstrap Procedure**: From the validation set of N instances, sample N instances with replacement and evaluate the model on this sample
 - **Spherical Equivalent**: A summary metric for refractive error, can be calculated using the formula spherical power + .5 * cylindrical power.  Spherical equivalent was available for both 
+- **Diopter**: Unit of refractive power that is equal to the reciprocal of the focal length (in meters) of a given lens
 
 ### Notes 
 - One of the most common causes of visual impairment worldwide.  Very treatable, but most people live in low-income countries

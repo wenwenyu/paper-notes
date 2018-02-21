@@ -2,7 +2,7 @@
 
 ### Books 
 - [Deep Learning](https://github.com/klawal/paper-notes/blob/master/notes/Deep%20Learning.md)  I. Goodfellow, Y. Bengio, A. Courville (2016) [[book]](http://www.deeplearningbook.org)
-- [Guide to Medical Image Analysis](https://github.com/klawal/paper-notes/blob/master/notes/Guide%20to%20Medical%20Image%20Analysis.md) K. D. Toennies[[book]](http://www.springer.com/la/book/9781447160960)
+- [Guide to Medical Image Analysis](https://github.com/klawal/paper-notes/blob/master/notes/Guide%20to%20Medical%20Image%20Analysis.md) K. D. Toennies [[book]](http://www.springer.com/la/book/9781447160960)
 - [OpthoBook](https://github.com/klawal/paper-notes/blob/master/notes/OpthoBook.md) T.Root (2017) [[book]](http://timroot.com/ophthobook)
 
 ### Medical 
@@ -16,3 +16,4 @@
 - [Empirical Activation of Rectified Activations in CNNs](https://github.com/klawal/paper-notes/blob/master/notes/Empirical%20Activation%20of%20Rectified%20Activations%20in%20CNNs.md) B. Xu, N. Wang, T. Chen, M. Li (2015) [[pdf]](https://arxiv.org/pdf/1505.00853.pdf)
 - [Improving neural networks by preventing co-adaptation of feature detectors](https://github.com/klawal/paper-notes/blob/master/notes/Improving%20neural%20networks%20by%20preventing%20co-adaptation%20of%20feature%20detectors.md) G.E. Hinton, N. Srivastava, A. Krizhevsky, I. Sutskever, R. R. Salakhutdinov (2012) [[pdf]](https://arxiv.org/pdf/1207.0580.pdf)
 - [Random Search for Hyperparameter Optimization](https://github.com/klawal/paper-notes/blob/master/notes/Random%20Search%20for%20Hyperparameter%20Optimization.md) Y. Bengio, J. Bergstra (2012) [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
+- [TRtTF Part 10: Optimization](https://github.com/klawal/paper-notes/blob/master/notes/TRtTF%20Part%2010:%20Optimization.md) Stephen Smith (2016) [[article]](https://smist08.wordpress.com/2016/10/04/the-road-to-tensorflow-part-10-more-on-optimization/)

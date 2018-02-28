@@ -1,6 +1,7 @@
 # paper-notes
 
 ### Books 
+- [Applied Predictive Modeling](https://github.com/klawal/paper-notes/blob/master/notes/Applied%20Predictive%20Modeling.md)  M. Kuhn, K. Johnson (2013) [[book]](http://www.springer.com/us/book/9781461468486)
 - [Deep Learning](https://github.com/klawal/paper-notes/blob/master/notes/Deep%20Learning.md)  I. Goodfellow, Y. Bengio, A. Courville (2016) [[book]](http://www.deeplearningbook.org)
 - [Guide to Medical Image Analysis](https://github.com/klawal/paper-notes/blob/master/notes/Guide%20to%20Medical%20Image%20Analysis.md) K. D. Toennies [[book]](http://www.springer.com/la/book/9781447160960)
 - [OpthoBook](https://github.com/klawal/paper-notes/blob/master/notes/OpthoBook.md) T.Root (2017) [[book]](http://timroot.com/ophthobook)
